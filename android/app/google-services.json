@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152430378733",
+    "project_id": "mci-academy",
+    "storage_bucket": "mci-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152430378733:android:19c1accebdc7f2beb0d6e4",
+        "android_client_info": {
+          "package_name": "com.example.mci_acadmey1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgBZrX1nL3QTcZgmI2HcwNJxRBQGWOSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
